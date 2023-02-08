@@ -1,0 +1,11 @@
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\obj\Debug\GreenvilleRevenueGUI.csproj.AssemblyReference.cache
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\obj\Debug\GreenvilleRevenueGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\mike.muldoon\Downloads\chp3bgreenvillerevenuegui-kingt19-main\obj\Debug\GreenvilleRevenueGUI.pdb
